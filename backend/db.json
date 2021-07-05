@@ -1,5 +1,5 @@
 {
-  "prodcts": [
+  "products": [
     {
       "id": 1,
       "name": "Caneta BIC Preta",
@@ -19,6 +19,26 @@
       "name": "geladeira",
       "price": "2100.40",
       "id": 4
+    },
+    {
+      "name": "geladeira",
+      "price": "2100.40",
+      "id": 5
+    },
+    {
+      "name": "geladeira",
+      "price": "2100.40",
+      "id": 6
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 7
+    },
+    {
+      "name": "Teclado",
+      "price": "100",
+      "id": 8
     }
   ]
 }
