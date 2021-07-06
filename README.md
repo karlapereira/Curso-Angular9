@@ -10,7 +10,7 @@
 ```
 cd backend
 json-server --watch db.json --port 3001
-ng serve
+npm start 
 ```
 ### - Angular app
 ```
