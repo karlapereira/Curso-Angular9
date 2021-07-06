@@ -1,22 +1,27 @@
-# Curso-Angular9
-> APP Crud Produtos usando angular9
+# Frontend
 
-## Modules
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
 
-- [Angular](https://angular.io/) - Angular é uma plataforma e framework para construção da interface de aplicações usando HTML, CSS e, principalmente, JavaScript, criada pelos desenvolvedores da Google.
+## Development server
 
-## Run
-### - Json server
-```
-cd backend
-json-server --watch db.json --port 3001
-npm start 
-```
-### - Angular app
-```
-cd frontend
-ng serve
-```
-## Documents
-- [Angular IO](https://angular.io/docs)
-- [Angular Components](https://material.angular.io/components/categories)
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
